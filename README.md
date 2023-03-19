@@ -10,4 +10,6 @@ If you have any issues create one or DM me on discord (thk6634#1432)
 
 Educational purposes only
 
+forked from BitBoost (https://github.com/BitStore-Community/BitBoost)
+
 sorry for bad english
