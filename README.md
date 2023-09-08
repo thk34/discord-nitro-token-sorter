@@ -1,3 +1,5 @@
+# Warning: it uses selenium so it fucks the tokens and I am too lazy to make one that uses the API
+
 # discord-nitro-token-sorter
 Tool that sorts discord tokens depending on whether the tokens have nitro or not
 
